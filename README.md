@@ -38,8 +38,13 @@ tea: tk 20
 samosa: tk 10
 
 Enter the name of the item you want to order: pizza
+
 Your order item is pizza and the price is 50
+
 Do you want to order another item? (yes/no): yes
+
 Enter the name of the second item: Coffee
+
 Your order item is Coffee and the price is 80
+
 Your total order is 130 tk
